@@ -9,7 +9,7 @@ respostas inspirado no formato do "Show do Milhão" para o Colégio Poliedro.
 | Enzo Pizzoni de Sette               | 25.00467-2   | @Enzo-Pizzoni       | Desenvolvedor |
 | Guilherme Pereira de Araújo         | 25.00615-6   | @Guilherme-p2006    | Desenvolvedor |
 | Isabella Passarelli                 | 24.00038-8   | @IsabellaPassarelli | Desenvolvedor |
-| Luana Ferreira Silva                | 25.01656-9   |                     | Desenvolvedor |
+| Luana Ferreira Silva                | 25.01656-9   | @luafxrreira        | Desenvolvedor |
 | Thiago Santos Machado               | 25.01702-1   | @Thiago-stosm       | Desenvolvedor |
 | Victor Baldassarri Gouveia da Silva | 24.01860-0   | @a-single-beamon    | Desenvolvedor |
 
