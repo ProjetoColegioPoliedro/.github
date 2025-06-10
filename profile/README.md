@@ -14,19 +14,23 @@ respostas inspirado no formato do "Show do Milhão" para o Colégio Poliedro.
 
 ## Estrutura do projeto
 ```
-📁 show-do-milhao
-│── 📁 src
-|   ├── 📁 main
-|   |   ├── App.java
-│   |   ├── 📁 database
-│   │   |   ├── DBConnection.java
-|   |   |   └── QuestionDAO.java
-|   |   ├── 📁 model
-|   |   |   └── Question.java
-│   |   ├── 📁 ui
-|   |   |   ├── MainMenu.java
-|   |   |   └── LoginPanel.java
-│
+📁 QUIZFORTUNA
+|   ├── 📁 meuprojeto
+|   |   │── 📁 src
+|   |   |   ├── 📁 main
+|   |   |   |   ├── App.java
+|   |   |   |   ├── 📁 assets
+│   |   |   |   ├── 📁 connectionFactory
+│   │   |   |   |   └── connectionFactory.java
+|   |   |   |   ├── 📁 dao [Arquivos de interação com o DB]
+|   |   |   |   ├── 📁 model [Arquivos de gerenciamento dos dados]
+|   |   |   |   ├── 📁 service [operações entre a interface e o acesso a dados]
+│   |   |   |   ├── 📁 ui [Arquivos de interface]
+│   |
+|   ├── 📁 sql
+|   |   └──script
+|
+├── config.properties
 └── README.md
 ```
 ## Funcionalidades
@@ -55,3 +59,29 @@ respostas inspirado no formato do "Show do Milhão" para o Colégio Poliedro.
 - MySQL
 
 ## Como rodar o projeto
+1. Clone o repositório
+```
+git clone https://github.com/ProjetoColegioPoliedro/QUIZFORTUNA.git
+```
+2. Baixe o MySQL Connector/J
+```
+https://dev.mysql.com/downloads/connector/j/
+```
+3. Adicione o JAR ao projeto 
+- Após o download, localize o arquivo ```mysql-connector-j-9.3.0```
+- No seu ambiente, adicione o JAR em:
+```
+Referenced Libraries > Java Projects
+```
+5. Navegue até a pasta principal do projeto
+``` 
+cd meuprojeto/src/main
+```
+6. Compile o projeto
+``` 
+javac App.java
+```
+7. Rode o projeto
+```
+java App
+```
