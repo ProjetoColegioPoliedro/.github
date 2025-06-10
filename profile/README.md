@@ -4,13 +4,13 @@ Esse repositório tem como objetivo desenvolver um jogo interativo de perguntas 
 respostas inspirado no formato do "Show do Milhão" para o Colégio Poliedro.
 
 ## Integrantes
-|Alunos                               | R.A          | Github              |Cargo          |
-|-------------------------------------|--------------|---------------------|---------------|
-| Enzo Pizzoni de Sette               | 25.00467-2   | @Enzo-Pizzoni       | Desenvolvedor |
-| Guilherme Pereira de Araújo         | 25.00615-6   | @Guilherme-p2006    | Desenvolvedor |
-| Isabella Passarelli                 | 24.00038-8   | @IsabellaPassarelli | Desenvolvedor |
-| Luana Ferreira Silva                | 25.01656-9   | @luafxrreira        | Desenvolvedor |
-| Thiago Santos Machado               | 25.01702-1   | @Thiago-stosm       | Desenvolvedor |
+|Alunos                               | R.A          | Github              |Cargo               |
+|-------------------------------------|--------------|---------------------|--------------------|
+| Enzo Pizzoni de Sette               | 25.00467-2   | @Enzo-Pizzoni       | Dev e Documentação |
+| Guilherme Pereira de Araújo         | 25.00615-6   | @Guilherme-p2006    | Dev e Documentação |
+| Isabella Passarelli                 | 24.00038-8   | @IsabellaPassarelli | Dev e Documentação |
+| Luana Ferreira Silva                | 25.01656-9   | @luafxrreira        | Dev e Documentação |
+| Thiago Santos Machado               | 25.01702-1   | @Thiago-stosm       | Dev e Documentação |
 
 ## Estrutura do projeto
 ```
