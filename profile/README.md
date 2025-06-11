@@ -20,11 +20,11 @@ respostas inspirado no formato do "Show do Milhão" para o Colégio Poliedro.
 |   |   |   ├── 📁 main
 |   |   |   |   ├── App.java
 |   |   |   |   ├── 📁 assets
-│   |   |   |   ├── 📁 connectionFactory
+│   |   |   |   ├── 📁 connectionFactory [Conexão com o DB]
 │   │   |   |   |   └── connectionFactory.java
 |   |   |   |   ├── 📁 dao [Arquivos de interação com o DB]
 |   |   |   |   ├── 📁 model [Arquivos de gerenciamento dos dados]
-|   |   |   |   ├── 📁 service [operações entre a interface e o acesso a dados]
+|   |   |   |   ├── 📁 service [Operações entre a interface e o acesso a dados]
 │   |   |   |   ├── 📁 ui [Arquivos de interface]
 │   |
 |   ├── 📁 sql
